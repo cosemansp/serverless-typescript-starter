@@ -1,0 +1,15 @@
+# package directories
+node_modules
+
+# Serverless directories
+.serverless
+
+# SECRETS
+secrets.yml
+
+# cache & temp files
+.tscache
+
+# Build folders
+.build/
+dist
